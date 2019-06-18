@@ -250,6 +250,12 @@ h6 {
     font-weight:400;
     color:#111;
 }
+h7 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 14px; 
+    font-weight:400;
+    color:#000;
+}
 
 
 /*------------------------------------------------------------------------------------------*/
