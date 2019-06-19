@@ -255,6 +255,11 @@ h7 {
     font-size: 14px; 
     font-weight:400;
     color:#000;
+    background-color:#fff;
+    
+}
+h7 .hover{
+    background-color:#d2b356;
 }
 
 
