@@ -89,14 +89,14 @@ figure {
 }
 
 .page-border .bottom-border, .page-border .left-border, .page-border .right-border, .page-border .top-border {
-    background: #f3f3ef;
+    background:#ffac06;
     position: fixed;
     z-index: 9999;
 }
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
     padding: 11px;
-    background: #ccc;
+    background:   #e8dac9;
 }
 
 .page-border .bottom-border, .page-border .top-border {
