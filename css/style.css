@@ -299,6 +299,10 @@ section {
     width: 38.2%;
 }
 
+.col-29 {
+    width: 80%;
+}
+
 /* --------- 2.1 Header --------- */
 
 #header {
@@ -792,7 +796,7 @@ h6 {
 }
 
 #banner-content.row {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-bottom: cover;
     
 }
@@ -2127,11 +2131,11 @@ blockquote {
         padding: 15px !important;
     }
 
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-2-3, .col-3-4, .col-9-10, .col-61, .col-38, .row {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-2-3, .col-3-4, .col-9-10, .col-61, .col-38, .col-29, .row {
         width: 100%;
     }
 
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-2-3, .col-3-4, .col-9-10, .col-61, .col-38 {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-2-3, .col-3-4, .col-9-10, .col-61, .col-38, .col-29 {
         padding-right: 0;
         padding-left: 0;
     }
@@ -2221,7 +2225,7 @@ blockquote {
         padding: 15px 0 !important;
     }
 
-    .col-1, .col-2, .col-5, .col-7, .col-9, .col-11, .col-2-3, .col-3-4, .col-61, .col-38, .row {
+    .col-1, .col-2, .col-5, .col-7, .col-9, .col-11, .col-2-3, .col-3-4, .col-61, .col-38, .col-29, .row {
         width: 100%;
     }
 

@@ -124,7 +124,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/pp.jpg") no-repeat right;
+    background: url("../images/banner-images/pp.jpg") no-repeat fixed right;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -205,7 +205,7 @@ body {
 }
 
 
-/* Standard Headings h1-h6 */
+/* Standard Headings h1-h7 */
 
 h1 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
