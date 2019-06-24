@@ -2,7 +2,7 @@
 
 1. Website Default Styling
 2. Navigation
-3. Primary, Secondary and Tertiary Colors
+3. Many Colors 
 4. Banner
 5. Typography
 6. Buttons
@@ -26,23 +26,23 @@ a, .la-ball-triangle-path {
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#e8dac9;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#ffac06;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: #83a3a2;
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:#e8dac9;
 }
 
 
@@ -68,21 +68,21 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #e8dac9;
+    border-color: #e8dac9;
 }    
 
 
 
 /*------------------------------------------------------------------------------------------*/
-/* 3. Primary, Secondary and Tertiary Colors */
+/* 3. Many Colors */
 /*------------------------------------------------------------------------------------------*/
 
 
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#d2b356;
+    background-color:#e8dac9;
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:#ffac06;
     content:"";
     display:block;
     width:30px;
@@ -108,16 +108,26 @@ a:hover, #header.nav-solid nav a:hover {
     color:#fff;
 }
 
-
-/* Secondary Background and Text Colors */
-
 .secondary-color {
     background-color:#f5f5f5;
 }
 
 .tertiary-color {
-    background-color:#fff;
+    background-color:#e8dac9;
 }
+
+.areiaum{
+    background-color:#e8dac9;
+}
+
+.areiadois{
+    background-color:#f0e7dc;
+}
+
+.areiatres{
+    background-color:#f5efe7;
+}
+
 /*------------------------------------------------------------------------------------------*/
 /* 4. Banner */
 /*------------------------------------------------------------------------------------------*/
@@ -250,7 +260,7 @@ h6 {
     font-weight:400;
     color:#111;
 }
-h7 {
+h7 a{
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 14px; 
     font-weight:400;
@@ -258,8 +268,8 @@ h7 {
     background-color:#fff;
     
 }
-h7 .hover{
-    background-color:#d2b356;
+h7 a.hover{
+    background-color:#ffac06;
 }
 
 
@@ -290,8 +300,8 @@ h7 .hover{
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#d2b356;
-    color:#d2b356;
+    border-color:#e8dac9;
+    color:#e8dac9;
 }
 
 
