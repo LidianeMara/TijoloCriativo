@@ -300,8 +300,8 @@ section {
 }
 
 .col-29 {
-    height: 50px;
-}
+    height: 83px;
+    }
 
 /* --------- 2.1 Header --------- */
 
@@ -773,6 +773,7 @@ h6 {
     padding: 0 0 15px 0;
 }
 
+
 .section-subtitle {
     font-size: 18px;
     padding-top: 0;
@@ -785,6 +786,17 @@ h6 {
     letter-spacing: 2px;
     padding-bottom: 0;
 }
+
+.section-heading h4 {
+    height: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ccc;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+    
+}
+
 
 /*------------------------------------------------------------------------------------------*/
 /* 4. Banner */
