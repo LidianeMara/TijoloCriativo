@@ -305,6 +305,23 @@ h7 a.hover{
 }
 
 
+/* Button Color */
+
+.button-1, input[type="submit"] {
+    border-color:#111 !important;
+}
+
+
+/* Button Hover Color */
+
+.button-1:hover,  input[type="submit"]:hover {
+    border-color:#111;
+    color:#fff;
+}
+
+
+
+
 /* ----------Banner Buttons---------- */
 
 
