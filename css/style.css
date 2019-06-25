@@ -301,7 +301,7 @@ section {
 
 .col-29 {
     height: 83px;
-    }
+}
 
 /* --------- 2.1 Header --------- */
 
@@ -525,7 +525,7 @@ section {
 
 #header.nav-solid [class*='col-'] {
     padding:0 20px;
-    background: url("../images/logo.jpg") no-repeat left;
+    background: url("../images/logo.png") no-repeat left;
 
 }
 
@@ -805,10 +805,9 @@ h6 {
     height: 10px;
     font-size: 14px;
     font-weight: bold;
-    color: #ccc;
+    color: #b4b4b4;
     letter-spacing: 2px;
     padding-bottom: 0;
-    
 }
 
 

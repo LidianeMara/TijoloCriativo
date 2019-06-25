@@ -136,7 +136,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/pp.jpg") no-repeat fixed right;
+    background: url("../images/banner-images/banner.jpg") no-repeat fixed right;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -308,15 +308,17 @@ h7 a.hover{
 /* Button Color */
 
 .button-1, input[type="submit"] {
-    border-color:#111 !important;
+    border-color:#fff !important;
+    color:#9c9c9c;
+    background-color: #fff;
 }
-
 
 /* Button Hover Color */
 
 .button-1:hover,  input[type="submit"]:hover {
-    border-color:#111;
+    border-color:#f0e7dc;
     color:#fff;
+    background-color: #f0e7dc;
 }
 
 
