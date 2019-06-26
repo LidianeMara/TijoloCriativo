@@ -321,7 +321,7 @@ h7 a.hover{
 /* Button Color */
 
 .button-1, input[type="submit"] {
-    border-color:#fff !important;
+    border-color:#fff;
     color:#9c9c9c;
     background-color: #fff;
 }
@@ -329,9 +329,9 @@ h7 a.hover{
 /* Button Hover Color */
 
 .button-1:hover,  input[type="submit"]:hover {
-    border-color:#f0e7dc;
-    color:#fff;
-    background-color: #f0e7dc;
+    border-color:#e8dac9;
+    color:#c5a278;
+    background-color: #fff;
 }
 
 

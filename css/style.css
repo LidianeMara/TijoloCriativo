@@ -1473,6 +1473,9 @@ blockquote {
     border: 5px solid #fff;
 }
 
+.pricing-block-content:hover {
+    background: #fff;
+}
 
 .pricing-block ul {
     list-style: none;
@@ -1481,7 +1484,6 @@ blockquote {
 
 .pricing-block li {
     padding: 14px 0;
-    border-bottom: 1px solid #c5a278;
 }
 
 .pricing-block li:last-of-type {
