@@ -1002,6 +1002,10 @@ blockquote {
     margin: 10px auto 15px auto;
 }
 
+.testimonial.classic footer {
+    font-weight:bold;
+}
+
 /* Style Big */
 
 .testimonial.bigtest {
@@ -1485,6 +1489,7 @@ blockquote {
 
 .pricing-block li {
     padding: 14px 0;
+    border-bottom: 1px solid #c5a278;
 }
 
 .pricing-block li:last-of-type {
