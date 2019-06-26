@@ -2,7 +2,8 @@
 
 1. Website Default Styling
 2. Navigation
-3. Many Colors 
+3. Many Colors
+3.1 Paleta de cores da Tijolo 
 4. Banner
 5. Typography
 6. Buttons
@@ -116,16 +117,29 @@ a:hover, #header.nav-solid nav a:hover {
     background-color:#e8dac9;
 }
 
-.areiaum{
-    background-color:#e8dac9;
+/* Paleta de cores da Tijolo*/
+.cor-alternativa-1 i{
+    color:#c5a278;
 }
 
-.areiadois{
-    background-color:#f0e7dc;
+.cor-alternativa-2 i{
+    color:#ffac06;
 }
 
-.areiatres{
-    background-color:#f5efe7;
+.cor-alternativa-3 i{
+    color:#cf5a1a;
+}
+
+.cor-alternativa-4 i{
+    color:#5e0301;
+}
+
+.cor-alternativa-5 i{
+    color:#83a3a2;
+}
+
+.cor-alternativa-6 i{
+    color:#152d2f;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -136,7 +150,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner.jpg") no-repeat fixed right;
+    background: url("../images/banner-images/banner.gif") no-repeat fixed right;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -271,7 +285,6 @@ h7 a{
 h7 a.hover{
     background-color:#ffac06;
 }
-
 
 /*------------------------------------------------------------------------------------------*/
 /* 6. Buttons */
