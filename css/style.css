@@ -787,7 +787,6 @@ h6 {
     padding: 0 0 15px 0;
 }
 
-
 .section-subtitle {
     font-size: 18px;
     padding-top: 0;
@@ -827,7 +826,7 @@ h6 {
 }
 
 #banner h1 {
-    padding-top: 5%;
+    padding-top: 5%;    
 }
 
 #banner .section-heading:before {
@@ -2233,7 +2232,7 @@ blockquote {
     }
 
     #banner h1 {
-        font-size: 50vw;
+        font-size: 38px;
     }
 
     /* Hide Elements */
